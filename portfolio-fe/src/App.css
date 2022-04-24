@@ -1,0 +1,91 @@
+body {
+    /* The image used */
+    background-image: url("../public/5652012.jpg");
+    color: #f2f2f2;
+    min-height: 760px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+    
+  }
+
+  .container {
+ 
+    text-align: center;     
+    padding: 20px;  
+       
+  }
+
+  .container-home {
+    text-align: center;     
+    padding: 20px; 
+    display: flex; 
+    justify-content: center;
+
+  }
+
+  .container ul {
+    list-style: none;
+  }
+
+  .project-container {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;
+  }
+
+  .project {
+    border: white 1px;
+    border-style: solid;
+    max-width: 300px;
+    
+  }
+
+  .body-container {
+    background-color: rgb(37, 37, 37);
+    max-width: 480px;
+    padding: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: black;
+  }
+  
+  /* The navbar */
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav h1 {
+    color: #f2f2f2;
+    flex-grow: 1;
+
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
