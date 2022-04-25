@@ -4,7 +4,7 @@ import Menu from "./components/Menu";
 import Home from "./components/Home";
 import Projects from "./components/Projects";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Routes,
   Route,
@@ -17,7 +17,7 @@ function App() {
       <Router >
         <Routes>
           <Route path="portfolio/" element={<Home></Home>} /> 
-          <Route path="genosynth.github.io/portfolio/projects" element={<Projects></Projects>}/>
+          <Route path="portfolio/projects" element={<Projects></Projects>}/>
         </Routes>
       </Router>
     </div>
