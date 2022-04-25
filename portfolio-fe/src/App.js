@@ -4,7 +4,7 @@ import Menu from "./components/Menu";
 import Home from "./components/Home";
 import Projects from "./components/Projects";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Routes,
   Route,
@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Menu></Menu>
-      <Router >
+      <Router basename="portfolio/">
         <Routes>
           <Route path="/" element={<Home></Home>} /> 
           <Route path="/projects" element={<Projects></Projects>}/>
