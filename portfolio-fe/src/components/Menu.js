@@ -7,9 +7,9 @@ function Menu() {
 
 <nav className='topnav'>
   <h1>Jean's Portfolio</h1>
-  <a href="/">Home</a>
-  <a href="/projects">Projects</a>
-  <a href="/resume">Resume</a>
+  <a href="/portfolio/">Home</a>
+  <a href="/portfolio/projects">Projects</a>
+  <a href="/portfolio/resume">Resume</a>
   
 </nav>
   </div>
