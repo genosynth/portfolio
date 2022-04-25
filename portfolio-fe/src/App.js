@@ -16,8 +16,8 @@ function App() {
       <Menu></Menu>
       <Router basename="portfolio/">
         <Routes>
-          <Route path="/d" element={<Home></Home>} /> 
-          <Route path="/projects/" element={<Projects></Projects>}/>
+          <Route path="/" element={<Home></Home>} /> 
+          <Route path="/projects" element={<Projects></Projects>}/>
         </Routes>
       </Router>
     </div>
