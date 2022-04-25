@@ -14,10 +14,10 @@ function App() {
   return (
     <div>
       <Menu></Menu>
-      <Router >
+      <Router basename="/genosynth.github.io/portfolio/">
         <Routes>
-          <Route path="portfolio/" element={<Home></Home>} /> 
-          <Route path="portfolio/projects" element={<Projects></Projects>}/>
+          <Route path="/" element={<Home></Home>} /> 
+          <Route path="/projects" element={<Projects></Projects>}/>
         </Routes>
       </Router>
     </div>
