@@ -17,7 +17,7 @@ function App() {
       <Router >
         <Routes>
           <Route path="portfolio/" element={<Home></Home>} /> 
-          <Route path="https://genosynth.github.io/portfolio/projects" element={<Projects></Projects>}/>
+          <Route path="genosynth.github.io/portfolio/projects" element={<Projects></Projects>}/>
         </Routes>
       </Router>
     </div>
