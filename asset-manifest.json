@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f991e3bb.css",
+    "main.js": "/portfolio/static/js/main.9b5d77ec.js",
+    "static/media/pula1.png": "/portfolio/static/media/pula1.39ad82f86750671538e5.png",
+    "static/media/5652012.jpg": "/portfolio/static/media/5652012.07e695a2067c43d04534.jpg",
+    "static/media/posted2.png": "/portfolio/static/media/posted2.f36293f85163533f7331.png",
+    "static/media/jest.svg": "/portfolio/static/media/jest.c7a79614b0d72ff35662.svg",
+    "static/media/express.svg": "/portfolio/static/media/express.b15c9e4d5c0f2d041b4f.svg",
+    "static/media/mysql.svg": "/portfolio/static/media/mysql.0f77bf19da698f1eceda.svg",
+    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.e04c952e87656caf6bc0.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.5b2e2d94e12f5f4b493e.svg",
+    "static/media/handlebars.svg": "/portfolio/static/media/handlebars.b6d53522c26b8840d441.svg",
+    "static/media/mongodb.svg": "/portfolio/static/media/mongodb.2f0a9a9cc9d63753a063.svg",
+    "static/media/react.svg": "/portfolio/static/media/react.2ff1c8e6d5c243492603.svg",
+    "static/media/application-insights.svg": "/portfolio/static/media/application-insights.5a2e51448020dbe7efca9639242bc064.svg",
+    "static/media/typescript.svg": "/portfolio/static/media/typescript.9f30d9787c8c0dae917a.svg",
+    "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.08b5ddcd32f41376d468.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.2efdfb68b31785429e324e91f72c27b3.svg",
+    "static/media/html5.svg": "/portfolio/static/media/html5.de9305cf876855bc05b8.svg",
+    "static/media/css3.svg": "/portfolio/static/media/css3.3f56ea17468bc4cbc4ef.svg",
+    "static/media/npm.svg": "/portfolio/static/media/npm.fe677b6e8c14b4ec8d3a.svg",
+    "static/media/webpack.svg": "/portfolio/static/media/webpack.de0eaf11e3503f130c05.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.b561c63179195aea872a.svg",
+    "main.f991e3bb.css.map": "/portfolio/static/css/main.f991e3bb.css.map",
+    "main.9b5d77ec.js.map": "/portfolio/static/js/main.9b5d77ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f991e3bb.css",
+    "static/js/main.9b5d77ec.js"
+  ]
+}
