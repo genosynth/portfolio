@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Menu></Menu>
-      <Router basename="/portfolio">
+      <Router >
         <Routes>
           <Route path="/" element={<Home></Home>} /> 
           <Route path="/projects" element={<Projects></Projects>}/>
