@@ -4,6 +4,7 @@ import githublogo from "../github.svg";
 import livelogo from "../application-insights.svg";
 import postedImage1 from "../projectImages/posted2.png"
 import pulaImage1 from "../projectImages/pula1.png"
+import todoListImage from "../projectImages/Todolist.png"
 
 function Projects() {
   let imgStyle = { maxWidth: "250px" };
@@ -44,6 +45,28 @@ function Projects() {
                 </a>
               </div>
             </div>
+
+            <div className="card" style={{ width: "18rem", height:"31.8rem"}}>
+              <h3 className="card-title">TODOLIST</h3>
+            <img src={todoListImage}  style={imgStyle} className="project-image" alt="..."/>
+              <div className="card-body">
+                
+                <h6 className="card-subtitle mb-2 text-muted">
+                   <img style={smallImg} src={images[12]} title="React" alt="React"></img> 
+                   <img style={smallImg} src={images[10]} title="NodeJs" alt="NodeJs"></img>
+                   <img style={smallImg} src={images[0]} title="Bootstrap" alt="Bootstrap"></img>
+                   </h6>
+                <p className="card-text">
+                A to-do List application created with React that lets the user add,edit,delete and mark tasks as complete.
+                </p>
+                <a href="https://genosynth.github.io/todolistReact/" target="_blank" className="btn mr-2">
+                  <i className="fas fa-link"></i> Visit Site
+                </a>
+                <a href="https://github.com/genosynth/todolistReact" target="_blank" className="btn ">
+                  <i className="fab fa-github"></i> Github
+                </a>
+              </div>
+            </div>
          
 
         
@@ -63,7 +86,7 @@ function Projects() {
                 <a href="https://pulagenju.herokuapp.com/" target="_blank" className="btn mr-2">
                   <i className="fas fa-link"></i> Visit Site
                 </a>
-                <a href="#" className="btn ">
+                <a href="https://github.com/genosynth/pula" target="_blank" className="btn ">
                   <i className="fab fa-github"></i> Github
                 </a>
               </div>
