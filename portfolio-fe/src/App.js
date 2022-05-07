@@ -1,5 +1,5 @@
 import "./App.css";
-import "./cards.css";
+import "./cards.scss";
 import Menu from "./components/Menu";
 import Home from "./components/Home";
 import Projects from "./components/Projects";
