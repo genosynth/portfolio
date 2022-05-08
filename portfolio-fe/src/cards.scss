@@ -12,7 +12,7 @@
  
 }
 .card {
-  width: 60%;
+  width: 80%;
   height: 95%;
   
   padding: auto;
@@ -28,7 +28,7 @@
     align-items: center;
     justify-items: center;
     color: white;
-    margin-top: 3%;
+    margin-top: 4%;
   }
   &__content {
     width: 90%;
@@ -78,6 +78,8 @@
       grid-template-columns: 1fr ;
      
     }
+
+    
 
    
 }
