@@ -16,7 +16,7 @@ function Home() {
     <div className="container">
       
       <h1>Home</h1>
-      <p>I'm a web developer that works with both front-end and back-end technologies such as the below. </p>
+      <p style={{marginTop:"30px"}}>I'm a web developer that works with both front-end and back-end technologies such as the below. </p>
       <div className="container-home">
       <ul>
           <li>HTML</li>

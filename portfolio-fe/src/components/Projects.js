@@ -1,7 +1,5 @@
 import React from "react";
 import "../cards.scss";
-import githublogo from "../github.svg";
-import livelogo from "../application-insights.svg";
 import postedImage1 from "../projectImages/posted2.png"
 import pulaImage1 from "../projectImages/pula1.png"
 import todoListImage from "../projectImages/Todolist.png"
