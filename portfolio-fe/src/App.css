@@ -114,3 +114,7 @@ body {
     
    
   }
+
+  .card-text a:hover {
+    color:rgb(49, 189, 207)
+  }
