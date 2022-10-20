@@ -108,8 +108,9 @@ function Projects() {
                 
                 <a href="https://github.com/genosynth/todolistReact" target="_blank" className="btn ">
                 <button className="card__button">
-                </button>
+                
                    Github
+                   </button>
                 </a>
               </div>
             </div>
