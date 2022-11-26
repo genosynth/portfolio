@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.27a7fe03.css",
-    "main.js": "/portfolio/static/js/main.573f9bef.js",
+    "main.js": "/portfolio/static/js/main.48bef121.js",
     "static/media/commerce.jpg": "/portfolio/static/media/commerce.5551000f91e421b59d66.jpg",
-    "static/media/pokerapp.jpg": "/portfolio/static/media/pokerapp.72277a71aa85c4788ea4.jpg",
+    "static/media/pokerapp.jpg": "/portfolio/static/media/pokerapp.df0a1d223a324cfa0258.jpg",
     "static/media/pula1.png": "/portfolio/static/media/pula1.39ad82f86750671538e5.png",
     "static/media/5652012.jpg": "/portfolio/static/media/5652012.07e695a2067c43d04534.jpg",
     "static/media/posted2.png": "/portfolio/static/media/posted2.f36293f85163533f7331.png",
@@ -28,10 +28,10 @@
     "static/media/webpack.svg": "/portfolio/static/media/webpack.de0eaf11e3503f130c05.svg",
     "static/media/javascript.svg": "/portfolio/static/media/javascript.b561c63179195aea872a.svg",
     "main.27a7fe03.css.map": "/portfolio/static/css/main.27a7fe03.css.map",
-    "main.573f9bef.js.map": "/portfolio/static/js/main.573f9bef.js.map"
+    "main.48bef121.js.map": "/portfolio/static/js/main.48bef121.js.map"
   },
   "entrypoints": [
     "static/css/main.27a7fe03.css",
-    "static/js/main.573f9bef.js"
+    "static/js/main.48bef121.js"
   ]
 }
