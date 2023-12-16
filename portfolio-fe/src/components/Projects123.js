@@ -63,7 +63,7 @@ function Projects() {
               </p>
 
               <a
-                href="https://blogreactgeno.herokuapp.com"
+                href="https://blogreact.cyclic.app/"
                 target="_blank"
                 className="btn mr-2"
               >

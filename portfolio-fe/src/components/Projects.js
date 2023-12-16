@@ -37,7 +37,7 @@ function Projects() {
 
             <div className="control">
               <button className="btn-b">
-                <a href="https://blogreactgeno.herokuapp.com" target="_blank">
+                <a href="https://blogreact.cyclic.app/" target="_blank">
                   <span className="buy">Visit Site</span>
                 </a>
               </button>
@@ -155,12 +155,12 @@ function Projects() {
 
                 <span>
                   <img
-                    style={smallImg}
-                    src={images[0]}
-                    title="Bootstrap"
-                    alt="Bootstrap"
+                   style={smallImg}
+                   src={images[8]}
+                    title="MongoDB"
+                    alt="MongoDB"
                   ></img>
-                  Bootstrap
+                  MongoDB
                 </span>
               </h6>
             </div>
