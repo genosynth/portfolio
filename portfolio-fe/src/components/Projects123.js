@@ -63,7 +63,7 @@ function Projects() {
               </p>
 
               <a
-                href="https://blogreact.cyclic.app/"
+                href="https://blogreact-88rm.onrender.com/"
                 target="_blank"
                 className="btn mr-2"
               >

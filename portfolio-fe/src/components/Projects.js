@@ -1,6 +1,6 @@
 import React from "react";
 import "./projects.css";
-import postedImage1 from "../projectImages/posted2.png";
+import postednew from "../projectImages/postednew.png";
 import pulaImage1 from "../projectImages/pula1.png";
 import todoListImage from "../projectImages/Todolist.png";
 import weatherAppImage from "../projectImages/weather.png";
@@ -37,7 +37,7 @@ function Projects() {
 
             <div className="control">
               <button className="btn-b">
-                <a href="https://blogreact.cyclic.app/" target="_blank">
+                <a href="https://blogreact-88rm.onrender.com/" target="_blank">
                   <span className="buy">Visit Site</span>
                 </a>
               </button>
@@ -55,7 +55,7 @@ function Projects() {
           </div>
 
           <div className="project-image">
-            <img src={postedImage1} alt="postEdthumbnail"></img>
+            <img src={postednew} alt="postEdthumbnail"></img>
 
             <div className="info">
               <h2> Techs </h2>
