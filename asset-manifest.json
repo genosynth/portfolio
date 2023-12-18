@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.27a7fe03.css",
-    "main.js": "/portfolio/static/js/main.562cd2b0.js",
+    "main.js": "/portfolio/static/js/main.c27152d6.js",
     "static/media/pokerapp.png": "/portfolio/static/media/pokerapp.e8550f5f66e493c8030b.png",
     "static/media/commerce.jpg": "/portfolio/static/media/commerce.5551000f91e421b59d66.jpg",
     "static/media/pula1.png": "/portfolio/static/media/pula1.39ad82f86750671538e5.png",
@@ -28,10 +28,10 @@
     "static/media/webpack.svg": "/portfolio/static/media/webpack.de0eaf11e3503f130c05.svg",
     "static/media/javascript.svg": "/portfolio/static/media/javascript.b561c63179195aea872a.svg",
     "main.27a7fe03.css.map": "/portfolio/static/css/main.27a7fe03.css.map",
-    "main.562cd2b0.js.map": "/portfolio/static/js/main.562cd2b0.js.map"
+    "main.c27152d6.js.map": "/portfolio/static/js/main.c27152d6.js.map"
   },
   "entrypoints": [
     "static/css/main.27a7fe03.css",
-    "static/js/main.562cd2b0.js"
+    "static/js/main.c27152d6.js"
   ]
 }
